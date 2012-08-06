@@ -4,7 +4,7 @@ html, body {
 }
 
 body {
-  padding-top: 40px; /* close alignment */
+  padding-top: 0; /* close alignment */
 }
 
 .container > footer p {

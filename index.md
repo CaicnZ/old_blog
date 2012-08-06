@@ -12,7 +12,7 @@ tagline:
 **回到旧时光吧 my dear~**
 
 
-#### 最近发布的文章
+### 最近发布的文章
 
 <ul class="posts">
   {% for post in site.posts %}

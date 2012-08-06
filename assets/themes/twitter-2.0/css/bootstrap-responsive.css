@@ -100,7 +100,7 @@
 @media (max-width: 767px) {
   .container {
     width: auto;
-    padding: 0 20px;
+    padding: 30px 20px;
   }
   .row-fluid {
     width: 100%;

@@ -364,6 +364,7 @@ h6 {
 }
 .page-header h1 {
   line-height: 1;
+  margin-bottom: 8px;
 }
 ul, ol {
   padding: 0;
@@ -2436,7 +2437,7 @@ button.btn.small, input[type="submit"].btn.small {
 }
 .navbar {
   overflow: visible;
-  margin-bottom: 18px;
+  margin-bottom: 1px;
 }
 .navbar-inner {
   padding-left: 20px;

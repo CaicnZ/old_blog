@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-> 使用jekyll部署在github pages并使用Cloudflare加速
+> 使用Jekyll部署在GitHub Pages并使用cloudflare加速
 
 ### 最近发布的文章
 
@@ -15,4 +15,4 @@ tagline:
   {% endfor %}
 </ul>
 
-回到旧时光吧 my dear~
+###### 回到旧时光吧 my dear~

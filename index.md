@@ -5,10 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-> 使用jekyll部署在github pages并使用cloudflare加速
-
-回到旧时光吧 my dear~
-
+> 使用jekyll部署在github pages并使用Cloudflare加速
 
 ### 最近发布的文章
 
@@ -17,3 +14,5 @@ tagline:
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+回到旧时光吧 my dear~

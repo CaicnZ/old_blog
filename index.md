@@ -7,8 +7,6 @@ tagline:
 
 > 使用jekyll部署在github pages并使用cloudflare加速。
 
-> 在这我会把一些值得记录的东西留下来，并不想它消失在信息的洪流中去。
-
 回到旧时光吧 my dear~
 
 

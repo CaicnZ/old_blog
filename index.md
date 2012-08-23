@@ -5,7 +5,7 @@ tagline:
 ---
 {% include JB/setup %}
 
-> 使用jekyll部署在github pages并使用cloudflare加速。
+> 使用jekyll部署在github pages并使用cloudflare加速
 
 回到旧时光吧 my dear~
 

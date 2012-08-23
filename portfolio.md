@@ -30,4 +30,4 @@ Now: Responsible Moefou System operation and maintenance
 一个基于HTML5 CSS3与PHP构建的简单发文功能，类似微博，界面灵感来自marisai thanks!
 
 ### [Mail](http://#)
-> echo svdphdpflgzvomapg | tr gvplozshadfm mioglaxhc4@.
+    echo svdphdpflgzvomapg | tr gvplozshadfm mioglaxhc4@.

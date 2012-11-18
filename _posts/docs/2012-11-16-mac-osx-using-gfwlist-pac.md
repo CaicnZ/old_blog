@@ -25,3 +25,5 @@ published: true
 我把他放在Sina App Engine，例如`http://autopac.sinaapp.com/auto.pac` 速度很理想，接着在 系统偏好设置->网络->你的网络连接->高级 中点选**代理**选项卡，并找到 **自动代理配置** 将在线pac文件的URL放置其中保存即可。
 
 至此你的系统网络已经完全拥有gfwlist机制，可以自由的使用twitter等App，所有浏览器也如此。
+
+Tips: 你仍需要一个本地的socks5代理，简单的方式是实现SSH免认证登陆后将`ssh -nNTf -D 1080 youipaddress` 放入/etc/rc.common 即可实现开机无痛代理

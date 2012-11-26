@@ -4,16 +4,16 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
-pygments: true
 markdown: rdiscount
+pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : xh!'s note
-tagline: Avalon
+title : xh's Blog
+#tagline: Site Tagline
 author :
-  name : Howe Isamu
+  name : xi4oh4o
   email : xi4oh4o@gmail.com
   github : xi4oh4o
   twitter : XHs

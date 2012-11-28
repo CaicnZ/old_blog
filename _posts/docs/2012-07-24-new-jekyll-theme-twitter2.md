@@ -3,9 +3,10 @@ layout: post
 title: "Jekyll theme {twitter boostrap2.0} "
 description: "jekyll theme, twitter bootstrap 2.0, jekyll mobile"
 category: jekyll
-tags: [docs]
+tags: [docs,jekyll]
 published: true
 ---
+
 {% include JB/setup %}
 
 这是一个经过修改的Jekyll twitter bootstrap 2.0主题，感谢[gdagley](https://github.com/gdagley/)

@@ -4,7 +4,6 @@ title: Portfolio
 header: My Works
 group: navigation
 ---
-{% include JB/setup %}
 
   你好，初次见面！ 我的名字是豪，在网络上我使用 xi4oh4o 作为ID， 你可以在很多地方用这个ID找到我，很高兴认识你:)
 

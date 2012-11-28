@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll theme {twitter boostrap2.0} "
 description: "jekyll theme, twitter bootstrap 2.0, jekyll mobile"
 category: jekyll
-tags: [jekyll, docs]
+tags: [jekyll]
 published: true
 ---
 

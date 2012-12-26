@@ -7,7 +7,7 @@ tags: [linux, docs, SA]
 published: true
 ---
 
-自动监控Nginx 502 和 504超时错误自动重启php-fpm进程并记录日志
+自动监控Nginx 502 Bad Gateway 和 504 Gateway Time-out 错误自动重启php-fpm进程并记录日志
 
     #!/bin/bash
     MY_URL="http://moefou.org"

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Nginx 502 & 504 Error Auto Restart PHP-FPM"
-description: "web server 502 & 504 error auto restart shell script"
+title: "Nginx 502 &amp; 504 Error Auto Restart PHP-FPM"
+description: "web server 502 &amp; 504 error auto restart shell script"
 category: "docs"
 tags: [linux, docs, SA]
 published: true
